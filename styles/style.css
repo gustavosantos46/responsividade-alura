@@ -105,6 +105,7 @@ body {
 
 .img {
   width: 50%;
+  padding-top: 30px;
 }
 
 .rodape {
@@ -117,7 +118,7 @@ body {
   text-align: center;
 }
 
-@media (max-width: 1530px) {
+@media (max-width: 1200px) {
   .cabecalho {
     padding: 10px;
   }
