@@ -87,6 +87,7 @@ body {
 .lk_redes_sociais {
   display: flex;
   justify-content: center; /* alinha o conteudo no centro */
+  align-items: center;
   gap: 16px;
   color: var(--cor-secundaria);
   border: 2px solid var(--cor-terciaria);
@@ -134,5 +135,9 @@ body {
 
   .apresentacao {
     width: 100%;
+  }
+
+  .lk_redes_sociais {
+    font-size: 1em;
   }
 }
